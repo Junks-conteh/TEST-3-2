@@ -139,10 +139,10 @@ section .footer .row.row2 ul a{
 @media screen and (max-width: 600px) {
     section{
       padding: 10px;
-      width: 90%;
+      width: 100%;
     }
     .searchBox {
-      width: 90%;
+      width: 100%;
     }
     section .footer .row.row2{
         display: block;
