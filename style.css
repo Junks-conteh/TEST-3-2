@@ -149,4 +149,7 @@ section .footer .row.row2 ul a{
         justify-content: space-between;
         width: 100%;
     }
+    section .footer{
+        width: 100%;
+    }
   }
