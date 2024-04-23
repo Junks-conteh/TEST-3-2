@@ -147,5 +147,6 @@ section .footer .row.row2 ul a{
     section .footer .row.row2{
         display: block;
         justify-content: space-between;
+        width: 100%;
     }
   }
